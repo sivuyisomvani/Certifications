@@ -7,7 +7,7 @@ This repository contains verified certifications I've earned, covering topics in
 
 ## Excel, SQL & Power BI
 
-- **Learning SQL Programming**  
+- [**Learning SQL Programming**](./LinkedIn%20Learning/LinkedInLearning_Learning%20SQL%20Programming_Nov2024.pdf)  
   *Issued: Nov 2024*  
   *(Pending link to certificate)*
 
@@ -66,3 +66,38 @@ This repository contains verified certifications I've earned, covering topics in
 ---
 
 📧 *Feel free to contact me for more details or to verify any credentials.*
+
+
+
+
+
+
+
+
+
+
+/LinkedIn%20Learning/LinkedInLearning_Learning%20SQL%20Programming_Nov2024.pdf
+sivuyisomvani
+sivuyisomvani
+Add files via upload
+90308dc
+ · 
+3 minutes ago
+Name	Last commit message	Last commit date
+..
+LinkedInLearning_Excel Essential Training Microsoft 365_Mar2024.pdf
+Add files via upload
+3 minutes ago
+LinkedInLearning_Learning Excel Data Analysis_.pdf
+Add files via upload
+3 minutes ago
+LinkedInLearning_Learning SQL Programming_Nov2024.pdf
+Add files via upload
+3 minutes ago
+LinkedInLearning_Programming Foundations Beyond the Fundamentals_Jan2025.pdf
+Add files via upload
+3 minutes ago
+LinkedInLearning_Programming Foundations Fundamentals_Dec2024.pdf
+Add files via upload
+3 minutes ago
+LinkedInLearning_SQL Essential Training_Nov2024.pdf
