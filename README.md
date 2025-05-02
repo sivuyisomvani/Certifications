@@ -9,26 +9,21 @@ This repository contains verified certifications I've earned, covering topics in
 
 - [**Learning SQL Programming**](./LinkedIn%20Learning/LinkedInLearning_Learning%20SQL%20Programming_Nov2024.pdf)  
   *Issued: Nov 2024*  
-  *(Pending link to certificate)*
 
-- **SQL Essential Training**  
+- [**SQL Essential Training**](./LinkedIn%20Learning/LinkedInLearning_SQL%20Essential%20Training_Nov2024.pdf) 
   *Issued: Nov 2024*  
-  *(Pending link to certificate)*  
   **Skills:** SQL
+
+- [**Learning Excel: Data Analysis**](./LinkedIn%20Learning/LinkedInLearning_Learning%20Excel%20Data%20Analysis_.pdf)  
+  *Issued: Nov 2024*  
+
+- [**Excel Essential Training (Microsoft 365)**](./LinkedIn%20Learning/LinkedInLearning_Excel%20Essential%20Training%20Microsoft%20365_Mar2024.pdf)  
+  *Issued: Mar 2024*  
 
 - **Power BI: Dashboards for Beginners**  
   *Issued: Nov 2024*  
   *(Pending link to certificate)*  
   **Skills:** Dashboards · Data Visualization · Microsoft Power BI
-
-
-- **Learning Excel: Data Analysis**  
-  *Issued: Nov 2024*  
-  *(Pending link to certificate)*
-
-- **Excel Essential Training (Microsoft 365)**  
-  *Issued: Mar 2024*  
-  *(Pending link to certificate)*
 
 ---
 
@@ -85,10 +80,10 @@ Add files via upload
 3 minutes ago
 Name	Last commit message	Last commit date
 ..
-LinkedInLearning_Excel Essential Training Microsoft 365_Mar2024.pdf
+/LinkedIn%20Learning/LinkedInLearning_Excel%20Essential%20Training%20Microsoft%20365_Mar2024.pdf
 Add files via upload
 3 minutes ago
-LinkedInLearning_Learning Excel Data Analysis_.pdf
+./LinkedIn%20Learning/LinkedInLearning_Learning%20Excel%20Data%20Analysis_.pdf
 Add files via upload
 3 minutes ago
 LinkedInLearning_Learning SQL Programming_Nov2024.pdf
@@ -100,4 +95,4 @@ Add files via upload
 LinkedInLearning_Programming Foundations Fundamentals_Dec2024.pdf
 Add files via upload
 3 minutes ago
-LinkedInLearning_SQL Essential Training_Nov2024.pdf
+./LinkedIn%20Learning/LinkedInLearning_SQL%20Essential%20Training_Nov2024.pdf
