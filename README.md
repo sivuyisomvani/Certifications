@@ -1,6 +1,55 @@
 # Certifications
 
-This repository contains verifiable copies of my professional certifications in data analysis and business intelligence tools. Below are the certificates with links for easy access.
+This repository contains verified certifications I've earned, covering topics in business, data analysis, Excel, SQL, and Power BI.
+
+
+---
+
+## Excel, SQL & Power BI
+
+- **Learning SQL Programming**  
+  *Issued: Nov 2024*  
+  *(Pending link to certificate)*
+
+- **SQL Essential Training**  
+  *Issued: Nov 2024*  
+  *(Pending link to certificate)*  
+  **Skills:** SQL
+
+- **Power BI: Dashboards for Beginners**  
+  *Issued: Nov 2024*  
+  *(Pending link to certificate)*  
+  **Skills:** Dashboards · Data Visualization · Microsoft Power BI
+
+
+- **Learning Excel: Data Analysis**  
+  *Issued: Nov 2024*  
+  *(Pending link to certificate)*
+
+- **Excel Essential Training (Microsoft 365)**  
+  *Issued: Mar 2024*  
+  *(Pending link to certificate)*
+
+---
+
+## Programming Foundations
+
+- **Programming Foundations: Beyond the Fundamentals**  
+  *Issued: Jan 2025*  
+  *(Pending link to certificate)*
+
+- **Programming Foundations: Fundamentals**  
+  *Issued: Dec 2024*  
+  *(Pending link to certificate)*
+
+---
+
+## Business Foundations
+
+- **Understanding Business**  
+  *Issued: Feb 2025*  
+  *(Pending link to certificate)*
+
 
 - **[SQL for Data Analysis](https://github.com/yourusername/certifications/blob/main/SQL_Certificate.pdf)**  
   *Issued by LinkedIn Learning*  
@@ -13,10 +62,6 @@ This repository contains verifiable copies of my professional certifications in 
 - **[Power BI Essential Training](https://github.com/yourusername/certifications/blob/main/PowerBI_Certificate.pdf)**  
   *Issued by LinkedIn Learning*  
   Teaches creating interactive dashboards, data modeling, and using DAX for custom calculations.
-
-## 🔗 Notes
-- All certificates are in PDF format.
-- Direct links to each certificate are included above for reference in my CV and professional profiles.
 
 ---
 
