@@ -20,7 +20,7 @@ This repository contains verified certifications I've earned, covering topics in
 - [**Excel Essential Training (Microsoft 365)**](./LinkedIn%20Learning/LinkedInLearning_Excel%20Essential%20Training%20Microsoft%20365_Mar2024.pdf)  
   *Issued: Mar 2024*  
 
-- **Power BI: Dashboards for Beginners**  
+- [**Power BI: Dashboards for Beginners**](./LinkedIn%20Learning/LinkedInLearning_Power%20BI%20Dashboards%20for%20Beginners_Nov2024.pdf)
   *Issued: Nov 2024*  
   *(Pending link to certificate)*  
   **Skills:** Dashboards · Data Visualization · Microsoft Power BI
